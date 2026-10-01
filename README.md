@@ -6,12 +6,12 @@
 
 <div align="center">
 
-[![Android App Release](https://img.shields.io/badge/Android%20App-v1.0.3%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/Paras65/ssm-app-apk/releases/latest)
-[![Compatibility](https://img.shields.io/badge/Compatibility-Android%207.0%20to%2015-blue?style=for-the-badge&logo=google)](https://github.com/Paras65/ssm-app-apk/releases/latest)
-[![Security: Certified](https://img.shields.io/badge/Security-v1%20%2B%20v2%20Signed-orange?style=for-the-badge)](https://github.com/Paras65/ssm-app-apk/releases/latest)
+[![Android App Release](https://img.shields.io/badge/Android%20App-v1.0.6%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/Paras65/ssm-app-apk/releases/latest/download/ssm-school-erp.apk)
+[![Compatibility](https://img.shields.io/badge/Compatibility-Android%207.0%20to%2015-blue?style=for-the-badge&logo=google)](https://github.com/Paras65/ssm-app-apk/releases/latest/download/ssm-school-erp.apk)
+[![Security: Certified](https://img.shields.io/badge/Security-v1%20%2B%20v2%20Signed-orange?style=for-the-badge)](https://github.com/Paras65/ssm-app-apk/releases/latest/download/ssm-school-erp.apk)
 [![Privacy: Zero Tracking](https://img.shields.io/badge/Privacy-No%20Ads%20%7C%20No%20Tracking-purple?style=for-the-badge)](https://init65.co.in)
 
-### 📲 [👉 नवीनतम आधिकारिक ऐप (v1.0.3 APK) अभी डाउनलोड करें](https://github.com/Paras65/ssm-app-apk/releases/latest)
+### 📲 [👉 1-क्लिक में आधिकारिक ऐप (v1.0.6 APK) सीधे डाउनलोड करें](https://github.com/Paras65/ssm-app-apk/releases/latest/download/ssm-school-erp.apk)
 
 </div>
 
@@ -31,13 +31,12 @@
 
 ---
 
-## 📥 अधिष्ठापन मार्गदर्शिका (How to Install APK)
+## 📥 सीधा 1-क्लिक अधिष्ठापन (Direct Installation)
 
-1. ऊपर दिए गए **[नवीनतम एपीके डाउनलोड लिंक](https://github.com/Paras65/ssm-app-apk/releases/latest)** पर टैप करें।
-2. Assets सूची में से **`ssm-school-erp.apk`** पर टैप करके डाउनलोड करें।
-3. **अज्ञात स्रोत अनुमति (Unknown Sources)**: यदि फ़ोन *"अज्ञात स्रोतों से ऐप इंस्टॉल करें"* पूछे, तो ब्राउज़र अथवा फ़ाइल प्रबंधक को अनुमति दें।
-4. **Google Play Protect**: यदि सुरक्षा स्क्रीन पर चेतावनी दिखाई दे, तो घबराएं नहीं। **"More details" (अधिक विवरण)** पर टैप करें और **"Install anyway" (फिर भी इंस्टॉल करें)** चुनें।
-5. **सफलतापूर्वक उपयोग प्रारंभ करें**: होम स्क्रीन पर भगवा कमल (`🪷`) आइकन वाले **"सरस्वती शिशु मंदिर"** ऐप को खोलें।
+1. ऊपर दिए गए **[सीधे डाउनलोड लिंक](https://github.com/Paras65/ssm-app-apk/releases/latest/download/ssm-school-erp.apk)** पर टैप करें। फ़ाइल (`ssm-school-erp.apk`) तुरंत फ़ोन में डाउनलोड होना शुरू हो जाएगी।
+2. **अज्ञात स्रोत अनुमति (Unknown Sources)**: यदि फ़ोन *"अज्ञात स्रोतों से ऐप इंस्टॉल करें"* पूछे, तो ब्राउज़र अथवा फ़ाइल प्रबंधक को अनुमति दें।
+3. **Google Play Protect**: यदि सुरक्षा स्क्रीन पर चेतावनी दिखाई दे, तो घबराएं नहीं। **"More details" (अधिक विवरण)** पर टैप करें और **"Install anyway" (फिर भी इंस्टॉल करें)** चुनें।
+4. **सफलतापूर्वक उपयोग प्रारंभ करें**: होम स्क्रीन पर भगवा कमल (`🪷`) आइकन वाले **"सरस्वती शिशु मंदिर"** ऐप को खोलें।
 
 ---
 
